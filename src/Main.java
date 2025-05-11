@@ -7,6 +7,6 @@ class Main{
 }
 class Drochilny{
     public static void main(String[] args) {
-
+        System.out.println("Я нихуя не понял");
     }
 }
